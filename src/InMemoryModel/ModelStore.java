@@ -1,7 +1,6 @@
 package InMemoryModel;
 
 import ModelElements.*;
-
 import java.util.ArrayList;
 
 /**
